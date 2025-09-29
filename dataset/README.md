@@ -1,4 +1,3 @@
-# 🕹️ Agente de Navegação em Grid com PettingZoo
 ## 📊 Dataset
 
 Este projeto **não utiliza um dataset externo tradicional** (como imagens ou tabelas).  
