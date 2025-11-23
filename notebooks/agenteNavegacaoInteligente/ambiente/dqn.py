@@ -1,3 +1,8 @@
+# Vitor Leandro Machado - 10409358
+# Rodrigo Lucas Rosales - 10365071
+
+# USO Rede Neural DQN
+
 import torch.nn as nn
 
 class DQN(nn.Module):

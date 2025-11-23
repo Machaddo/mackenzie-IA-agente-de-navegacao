@@ -1,3 +1,8 @@
+# Vitor Leandro Machado - 10409358
+# Rodrigo Lucas Rosales - 10365071
+
+# Arquivo de validação do modelo 
+
 import torch
 import numpy as np
 import time
@@ -26,7 +31,7 @@ os.makedirs(diretorio_modelos, exist_ok=True)
 CAMINHO_MODELO = os.path.join(diretorio_modelos, "modelo_grid_10.pth")
 
 # Controle da velocidade da visualização (tempo de pausa entre passos)
-VELOCIDADE_ANIMACAO = 0.02
+VELOCIDADE_ANIMACAO = 0.9
 
 # FUNÇÕES UTILITÁRIAS
 def limpar_tela():

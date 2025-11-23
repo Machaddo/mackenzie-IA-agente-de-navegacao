@@ -1,3 +1,6 @@
+# Vitor Leandro Machado - 10409358
+# Rodrigo Lucas Rosales - 10365071
+
 from collections import deque
 import random
 import numpy as np

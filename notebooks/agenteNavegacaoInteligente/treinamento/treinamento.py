@@ -1,3 +1,8 @@
+# Vitor Leandro Machado - 10409358
+# Rodrigo Lucas Rosales - 10365071
+
+# Arquivo de treinamento do modelo 
+
 import numpy as np
 import torch
 import torch.nn as nn
@@ -130,11 +135,8 @@ for ep in range(EPISODES):
     reached_goal = infos["agent_0"].get("success", False)
 
     if reached_goal and steps_taken > 0:
-        # Calcula a porcentagem de quão perto do ideal ele foi
-        # Ex: Ideal 10, Real 12 -> (10/12)*100 = 83.3% de eficiência
         episode_efficiency = (min_steps / steps_taken) * 100.0
     else:
-        # Se não chegou ou (caso raro) deu 0 passos, a eficiência é 0
         episode_efficiency = 0.0
 
     epsilon = max(EPSILON_MIN, epsilon * EPSILON_DECAY)
