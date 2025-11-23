@@ -121,6 +121,7 @@ class GridNavigationWithMetricsEnv(ParallelEnv):
         intended_pos = np.clip(intended_pos, 0, self.grid_size - 1)
 
         # Checa colisão
+        step_reward = 0.0
         if self.obstacles[intended_pos[0], intended_pos[1]] == 1:
             self.collisions += 1
             step_reward -= 0.2
