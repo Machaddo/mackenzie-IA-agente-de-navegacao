@@ -1,9 +1,11 @@
-# Ambiente de Navegação em Grid 2D (Compatível com PettingZoo/Gymnasium).
+# Vitor Leandro Machado - 10409358
+# Rodrigo Lucas Rosales - 10365071
 
+# USO Rede Neural DQN
+# Ambiente de Navegação em Grid 2D (Compatível com PettingZoo/Gymnasium).
 # Características:
 # - Grid NxN com obstáculos estáticos.
 # - Objetivo Fixo (escolhido no início) e Posição Inicial Aleatória.
-# - Observação: Coordenadas normalizadas (0.0 a 1.0).
 # - Recompensa: Penalidade por passo/colisão e prêmio por objetivo.
 
 import numpy as np
