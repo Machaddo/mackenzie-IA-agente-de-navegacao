@@ -1,0 +1,10 @@
+--------------------------------------------------
+STATUS FINAL      : SUCESSO
+Grid Size         : 10x10
+--------------------------------------------------
+Passos Realizados : 1733
+Passos Ideais     : 18
+Colisões          : 180
+Recompensa Total  : 776.50
+Taxa de Sucesso   : 1.04%
+==================================================

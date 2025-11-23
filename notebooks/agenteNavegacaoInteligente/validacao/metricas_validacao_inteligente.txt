@@ -1,0 +1,90 @@
+=== EPISÓDIO 1 ===
+STATUS            : SUCESSO
+Grid Size         : 10x10
+Passos Realizados : 6
+Passos Ideais     : 6
+Eficiência        : 100.00%
+Recompensa Total  : 9.9400
+----------------------------------------
+
+=== EPISÓDIO 2 ===
+STATUS            : SUCESSO
+Grid Size         : 10x10
+Passos Realizados : 8
+Passos Ideais     : 8
+Eficiência        : 100.00%
+Recompensa Total  : 9.9200
+----------------------------------------
+
+=== EPISÓDIO 3 ===
+STATUS            : SUCESSO
+Grid Size         : 10x10
+Passos Realizados : 3
+Passos Ideais     : 3
+Eficiência        : 100.00%
+Recompensa Total  : 9.9700
+----------------------------------------
+
+=== EPISÓDIO 4 ===
+STATUS            : SUCESSO
+Grid Size         : 10x10
+Passos Realizados : 2
+Passos Ideais     : 2
+Eficiência        : 100.00%
+Recompensa Total  : 9.9800
+----------------------------------------
+
+=== EPISÓDIO 5 ===
+STATUS            : SUCESSO
+Grid Size         : 10x10
+Passos Realizados : 2
+Passos Ideais     : 2
+Eficiência        : 100.00%
+Recompensa Total  : 9.9800
+----------------------------------------
+
+=== EPISÓDIO 6 ===
+STATUS            : SUCESSO
+Grid Size         : 10x10
+Passos Realizados : 7
+Passos Ideais     : 7
+Eficiência        : 100.00%
+Recompensa Total  : 9.9300
+----------------------------------------
+
+=== EPISÓDIO 7 ===
+STATUS            : SUCESSO
+Grid Size         : 10x10
+Passos Realizados : 12
+Passos Ideais     : 12
+Eficiência        : 100.00%
+Recompensa Total  : 9.8800
+----------------------------------------
+
+=== EPISÓDIO 8 ===
+STATUS            : SUCESSO
+Grid Size         : 10x10
+Passos Realizados : 14
+Passos Ideais     : 14
+Eficiência        : 100.00%
+Recompensa Total  : 9.8600
+----------------------------------------
+
+=== EPISÓDIO 9 ===
+STATUS            : SUCESSO
+Grid Size         : 10x10
+Passos Realizados : 4
+Passos Ideais     : 4
+Eficiência        : 100.00%
+Recompensa Total  : 9.9600
+----------------------------------------
+
+=== EPISÓDIO 10 ===
+STATUS            : SUCESSO
+Grid Size         : 10x10
+Passos Realizados : 5
+Passos Ideais     : 5
+Eficiência        : 100.00%
+Recompensa Total  : 9.9500
+----------------------------------------
+
